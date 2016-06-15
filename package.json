@@ -1,0 +1,10 @@
+{
+  "name": "ib1_prj",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
